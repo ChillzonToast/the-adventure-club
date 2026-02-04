@@ -24,7 +24,7 @@ const Navbar = () => {
         <nav className={styles.navbar}>
             <div className={styles.navContainer}>
                 <Link href="/" className={styles.logo}>
-                    THE<span>ADVENTURECLUB</span>
+                    <img src="/logo.png" alt="The Adventure Club" className={styles.logoImage} />
                 </Link>
 
                 <button className={styles.mobileMenuBtn} onClick={toggleMenu} aria-label="Toggle menu">

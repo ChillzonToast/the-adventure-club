@@ -4,7 +4,7 @@
     left: 0;
     width: 100%;
     z-index: 1000;
-    padding: 1.5rem 0;
+    padding: 0;
     transition: all 0.3s ease;
     background: rgba(5, 20, 16, 0.8);
     /* Semi-transparent background initially or always for readability */
@@ -30,8 +30,10 @@
     letter-spacing: 2px;
 }
 
-.logo span {
-    color: var(--color-accent-gold);
+.logoImage {
+    height: 120px;
+    width: auto;
+    object-fit: contain;
 }
 
 .navLinks {
