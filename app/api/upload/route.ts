@@ -15,30 +15,20 @@ export async function POST(request: NextRequest) {
         const bytes = await file.arrayBuffer();
         const buffer = Buffer.from(bytes);
 
-        // Compress to JPEG using sharp
+        // Compress to JPEG using sharp and resize to max 800px width to save DB space
+        // Quality 60 is a good balance for DB storage
         const compressedBuffer = await sharp(buffer)
-            .jpeg({ quality: 80, mozjpeg: true })
+            .resize({ width: 800, withoutEnlargement: true })
+            .jpeg({ quality: 60 })
             .toBuffer();
 
-        // Create unique filename
-        const filename = `${Date.now()}-${file.name.replace(/\.[^/.]+$/, "")}.jpg`;
+        // Convert to Base64 Data URI
+        const base64Image = `data:image/jpeg;base64,${compressedBuffer.toString('base64')}`;
 
-        // Ensure upload directory exists
-        const uploadDir = path.join(process.cwd(), 'public/uploads');
-        try {
-            await mkdir(uploadDir, { recursive: true });
-        } catch (e) {
-            // Ignore if exists
-        }
-
-        const filepath = path.join(uploadDir, filename);
-        await writeFile(filepath, compressedBuffer);
-
-        const publicUrl = `/uploads/${filename}`;
-
-        return NextResponse.json({ success: true, url: publicUrl });
+        // Return the Data URI as the "url"
+        return NextResponse.json({ success: true, url: base64Image });
     } catch (error) {
-        console.error('Upload error:', error);
-        return NextResponse.json({ success: false, message: 'Upload failed' }, { status: 500 });
+        console.error('Upload conversion error:', error);
+        return NextResponse.json({ success: false, message: 'Upload processing failed' }, { status: 500 });
     }
 }
