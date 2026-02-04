@@ -1,0 +1,54 @@
+.aboutSection {
+    padding: 6rem 0;
+    background: var(--color-primary-dark);
+}
+
+.aboutGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+}
+
+.aboutContent h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--color-text-light);
+}
+
+.aboutContent p {
+    margin-bottom: 2rem;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+}
+
+.imageGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.imageCard {
+    position: relative;
+    height: 250px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.imageCard img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.imageCard:hover img {
+    transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+    .aboutGrid {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+    }
+}

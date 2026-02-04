@@ -1,0 +1,159 @@
+Here is the data extracted from your log, formatted for the Admin Dashboard form.
+Note: The "Image Reference" tells you which file was associated with the event in your old database, so you can find and upload the correct file from your computer.
+
+--------------------------------------------------------------------------------
+EVENT 1
+--------------------------------------------------------------------------------
+Title: ESCAPADE
+Date: 04 Jan 2025
+Image Reference: escapade.jpeg
+
+Summary:
+Escapade is an electrifying massive treasure hunt designed for teams of two, covering an expansive area filled with clues, surprises, and adventure.
+
+Full Description:
+Escapade is an electrifying massive treasure hunt designed for teams of two, covering an expansive area filled with clues, surprises, and adventure. This event tests participants' problem-solving skills, teamwork, and strategic thinking, offering an unforgettable experience.
+
+The event consists of two rounds:
+Round 1 (Online Challenge): A virtual test of wit and logic, filtering out the best teams.
+Round 2 (Treasure Hunt): The ultimate on-ground adventure where the top teams compete in a thrilling chase to uncover hidden treasures.
+
+Open to All India college students from both inside and outside NITC.
+
+Past Highlights:
+The event witnessed over 100 teams competing in Round 1. The top 10 teams earned an exhilarating trip to Wonderla, where the final treasure hunt took place. The winners walked away with exciting prizes and memories to cherish for a lifetime.
+
+Get ready for a bigger, bolder, and even more thrilling Escapade!
+
+--------------------------------------------------------------------------------
+EVENT 2
+--------------------------------------------------------------------------------
+Title: ADRENALINE
+Date: 01 Jan 2025
+Image Reference: adrenaline.jpeg
+
+Summary:
+Adrenaline is the flagship adventure event of the Adventure Club, exclusively designed for NIT students who seek excitement, competition, and teamwork.
+
+Full Description:
+Adrenaline is the flagship adventure event of the Adventure Club, exclusively designed for NIT students who seek excitement, competition, and teamwork. This event brings together participants for high-energy challenges that test endurance, agility, and strategy. With a mix of dynamic activities, Adrenaline offers an engaging experience for adventure enthusiasts across the campus.
+
+When & Where:
+ Location: Inside NIT Campus
+
+Past Highlights:
+Adrenaline has featured a variety of interactive and action-packed events, creating an unforgettable experience for participants. Previous editions have included Soapy Football, a crowd favorite where teams competed on a slippery field, bringing an element of fun and unpredictability. 7 Stones added a nostalgic touch, testing players' strategy, speed, and teamwork. Dodge Ball and Bubble Soccer brought a mix of strategy and endurance, while the Obstacle Race challenged participants with a series of physical and mental hurdles.
+
+All these events were conducted within the NIT campus, fostering a strong spirit of adventure and camaraderie. With every edition, Adrenaline continues to evolve, promising even more thrilling challenges ahead. Stay tuned for what’s next.
+
+--------------------------------------------------------------------------------
+EVENT 3
+--------------------------------------------------------------------------------
+Title: QUESTORIA
+Date: 06 Jan 2025
+Image Reference: questoria.jpeg
+
+Summary:
+Questoria is an exciting event conducted by The Adventure Club (TAC) NITC, targeting students from grades 9-12 across Kozhikode, Malappuram, and Kannur.
+
+Full Description:
+Questoria is an exciting event conducted by The Adventure Club (TAC) NITC, targeting students from grades 9-12 across Kozhikode, Malappuram, and Kannur. Designed to test knowledge, problem-solving, and teamwork, the competition features two thrilling rounds: a Preliminary Round and a Grand Finale at NIT Calicut.
+
+The first edition, held last year, saw enthusiastic participation from 30+ schools and over 5000 students, making it a massive success. Questoria continues to be a platform where young minds challenge themselves, collaborate, and emerge victorious.
+
+--------------------------------------------------------------------------------
+EVENT 4
+--------------------------------------------------------------------------------
+Title: RUSH HOUR
+Date: 02 Jan 2025
+Image Reference: rushHour.jpeg
+
+Summary:
+Rush hour is a thrilling carnival conducted by The Adventure Club, NIT Calicut. A day filled with fun games, testing your luck, intelligence and skills.
+
+Full Description:
+“The fair is where we make memories and have fun.”
+Rush hour is a thrilling carnival conducted by The Adventure Club, NIT Calicut. A day filled with fun games , testing your luck,
+intelligence and skills. Winners are rewarded with various intriguing gifts.
+
+Where
+NIT calicut campus
+
+Past highlights
+
+Rush hour was conducted as a collaboration with jwala 2025, the sports day of NITC. Whether it be by spinning the wheel or by pillow fight , the event enlightened the mood of all the young hearts who wanted some fun. The event was happily closed with a beautiful performance by the parudeesa band
+
+“Its never about how much you hit with the pillow, its always about how much you laugh while doing so.. and that’s what a pillow fight is … so is rush hour”
+
+--------------------------------------------------------------------------------
+EVENT 5
+--------------------------------------------------------------------------------
+Title: CAMPESCAPE
+Date: 03 Jan 2025
+Image Reference: campescape.jpeg
+
+Summary:
+Campescape is an exhilarating treasure hunt designed to test problem-solving skills while taking participants on an adventurous journey across the NIT Calicut campus.
+
+Full Description:
+Campescape is an exhilarating treasure hunt designed to test problem-solving skills while taking participants on an adventurous journey across the NIT Calicut campus.This event is not just about solving puzzles—it’s about immersing in the campus, forging new connections, and discovering the unexplored corners of NITC.
+
+Campescape is open to all NIT students, with a special focus on first-year students, helping them familiarize themselves with the campus in a fun and engaging way.
+
+Past Highlights:
+Campescape has helped students explore the campus while enhancing their problem-solving skills. Alongside, PLAYSCAPE brought exciting challenges like intense workouts, inter-branch contests, and the Ronaldo Header Challenge, where participants showcased their soccer skills. With thrilling activities and fantastic prizes, Campescape has always been a perfect mix of adventure, strategy, and fun!
+
+Gear up for an unforgettable adventure—Campescape promises excitement, challenges, and a chance to explore NITC like never before!
+
+--------------------------------------------------------------------------------
+EVENT 6
+--------------------------------------------------------------------------------
+Title: ROAD TO TATHVA
+Date: 05 Jan 2025
+Image Reference: roadToTathva.jpeg
+
+Summary:
+Road to Tathva is an exciting prelude to the college’s annual tech fest, designed to challenge and energize NIT students through adventure-packed activities.
+
+Full Description:
+Road to Tathva is an exciting prelude to the college’s annual tech fest, designed to challenge and energize NIT students through adventure-packed activities. This event blends physical endurance, strategy, and teamwork, offering participants a thrilling experience before the main fest.
+
+When & Where:
+ Location: Inside NIT Campus
+Conducted a few weeks before Tathva
+
+Past Highlights:
+Road to Tathva has featured high-energy activities that test strength, agility, and determination. The Obstacle Race pushed participants to their limits with a series of physically demanding challenges, including crawling under traps, jumping over barriers, and maneuvering through difficult terrains. The Pillow Fight added an element of excitement, where participants had to maintain balance while knocking down their opponents. In addition to these, various engaging mini-games tested speed, coordination, and problem-solving skills, making the event both physically and mentally stimulating.
+
+With a perfect mix of competitive spirit and adventure, Road to Tathva sets the stage for Tathva by bringing students together in an electrifying atmosphere. Each year, the event continues to grow, offering fresh challenges and unforgettable experiences.
+
+--------------------------------------------------------------------------------
+EVENT 7
+--------------------------------------------------------------------------------
+Title: Nature Camp 2024
+Date: 01 Sep 2024
+Image Reference: IMG-20250212-WA0053.jpg
+
+Summary:
+Organized by the Adventure Club, NIT Calicut, Nature Camp 2024 offered an immersive experience in the Western Ghats, combining adventure, learning, and exploration.
+
+Full Description:
+Organized by the Adventure Club, NIT Calicut, Nature Camp 2024 offered an immersive experience in the Western Ghats, combining adventure, learning, and exploration. Participants engaged in trekking, interactive sessions, and eco-challenges, deepening their connection with nature.
+
+When & Where
+
+ Location: Karimpuzha Wildlife Sanctuary, Nedumkayam – Karulayi
+Date: August 31 – September 1, 2024
+
+Highlights
+
+Nature Walk & Trekking – A guided journey through the dense forests, exploring diverse flora and fauna.
+
+Campfire & Discussions – Engaging conversations on wildlife conservation and sustainability.
+
+Eco-Exploration Challenges – Team-based tasks testing adaptability and problem-solving.
+
+Theme: "Western Ghats and Our Life" – Emphasizing the vital link between ecosystems and human life.
+
+
+Blending adventure, teamwork, and environmental awareness, Nature Camp 2024 left participants with lasting memories and a renewed commitment to conservation.
